@@ -26,6 +26,19 @@ function App() {
           <Tabbuttons>State</Tabbuttons>
           </menu>
         </section>
+        <section>
+          <ul>
+            <li>
+              Chicken tikka
+            </li>
+            <li>
+              chicken tandoori masala
+            </li>
+            <li>
+              chicken pakooda masala
+            </li>
+          </ul>
+        </section>
       </main>
     </div>
   );

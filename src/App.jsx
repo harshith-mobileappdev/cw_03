@@ -26,19 +26,6 @@ function App() {
           <Tabbuttons>State</Tabbuttons>
           </menu>
         </section>
-        <menu>
-          <ul>
-            <li>
-              Mutton
-            </li>
-            <li>
-              chicken 
-            </li>
-            <li>
-              Beef
-            </li>
-          </ul>
-        </menu>
       </main>
     </div>
   );

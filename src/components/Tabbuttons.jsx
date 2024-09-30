@@ -1,5 +1,5 @@
-export function Tabbuttons(props){
+export function Tabbuttons({children,onSelect,highlight}){
     return(
-        <li><button>{props.children}</button></li>
+        <li><button className={highlight ? 'active':undefined} onClick={onSelect}>{children}</button></li>
     )
 }
